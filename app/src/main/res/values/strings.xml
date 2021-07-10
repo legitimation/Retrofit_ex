@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit_ex</string>
+    <string name="baseUrl">http://172.10.18.137</string>
+</resources>
