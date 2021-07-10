@@ -23,6 +23,8 @@ class MainActivity : AppCompatActivity() {
     private var retrofit: Retrofit? = null
     private var retrofitInterface: RetrofitInterface? = null
     private val BASE_URL = "http://192.249.18.137:80"
+//    private val BASE_URL = "http://192.249.18.185:80"
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
